@@ -30,23 +30,6 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-
-//- com.example.gymmembership
-//    - data
-//        - dao
-//        - database
-//        - model
-//    - util
-//        - create QR
-//    - di
-//    - ui
-//        - component
-//        - screen
-//            - MemberList
-//            - add / extend membership
-//            - DisplayMemberQR
-//            - ScanMemberQR
-
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
