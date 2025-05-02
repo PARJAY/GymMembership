@@ -4,7 +4,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 
 @Composable
-fun MemberListScreen() {
-    Text(text = "Layar Daftar Member")
-    // TODO: Implement UI dan logika daftar member
+fun ScanMemberQRScreen() {
+    Text(text = "Layar Scan QR Member")
+    // TODO: Implement pemindai QR
 }

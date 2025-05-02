@@ -1,0 +1,15 @@
+package com.example.gymmembership.ui.navigation
+
+import kotlinx.serialization.Serializable
+
+@Serializable
+object MemberListScreenNavigation
+
+@Serializable
+object AddEditMembershipScreenNavigation
+
+@Serializable
+object DisplayMemberQRScreenNavigation
+
+@Serializable
+object ScanMemberQRScreenNavigation
